@@ -1,6 +1,6 @@
 # wedding-invitation
 
-我的婚礼邀请函小程序，可以搜「金钱组合的婚礼邀请函」或扫描下方二维码来查看。
+我的婚礼邀请函小程序，可以扫描下方二维码来查看。
 
 <img src="https://raw.githubusercontent.com/JaminQ/wedding-invitation/imgs/qrcode.jpg" alt="二维码" width="200px" />
 
